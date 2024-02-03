@@ -6,10 +6,10 @@ namespace ApiLaboratorio.Models
     public class User
     {
         [Key]
-        public int UserId { get; set; }
+        public int Id { get; set; }
 
         [Required]
-        public string Username { get; set; }
+        public string UserName { get; set; }
 
         [Required]
         public byte[] PasswordHash { get; set; }
