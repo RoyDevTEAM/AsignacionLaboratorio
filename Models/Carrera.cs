@@ -9,12 +9,10 @@ namespace ApiLaboratorio.Models
         public int CarreraId { get; set; }
 
         [Required]
-        [MaxLength(100)]
+        [MaxLength(70)]
         public string Nombre { get; set; }
 
-        [MaxLength(255)]
-        public string Descripcion { get; set; }
-
-        public List<Materia> Materias { get; set; }
+        // Relación uno a muchos con AsignarMateria
+        public ICollection<AsignarMateria> AsignarMaterias { get; set; }
     }
 }

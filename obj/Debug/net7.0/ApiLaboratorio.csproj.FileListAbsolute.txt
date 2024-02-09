@@ -1,0 +1,285 @@
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\appsettings.json
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.exe
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.deps.json
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.runtimeconfig.json
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.pdb
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.csproj.AssemblyReference.cache
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.AssemblyInfoInputs.cache
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.AssemblyInfo.cs
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.csproj.CoreCompileInputs.cache
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.ApiLaboratorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiLaboratorio.props
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiLaboratorio.props
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiLaboratorio.props
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\scopedcss\bundle\ApiLaboratorio.styles.css
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.csproj.CopyComplete
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\refint\ApiLaboratorio.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.pdb
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.genruntimeconfig.cache
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\obj\Debug\net7.0\ref\ApiLaboratorio.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Zstandard.Net.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\Renci.SshNet.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\SshNet.Security.Cryptography.dll
+C:\Users\Maximiliano\Downloads\ApiLaboratorio\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\appsettings.json
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.exe
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.deps.json
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.runtimeconfig.json
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.pdb
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Zstandard.Net.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Scrutor.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Renci.SshNet.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\SshNet.Security.Cryptography.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.csproj.AssemblyReference.cache
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.AssemblyInfoInputs.cache
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.AssemblyInfo.cs
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.csproj.CoreCompileInputs.cache
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.ApiLaboratorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiLaboratorio.props
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiLaboratorio.props
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiLaboratorio.props
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\scopedcss\bundle\ApiLaboratorio.styles.css
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.csproj.CopyComplete
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\refint\ApiLaboratorio.dll
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.pdb
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.genruntimeconfig.cache
+C:\Users\SCPC308\Desktop\ApiLaboratorio\obj\Debug\net7.0\ref\ApiLaboratorio.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\appsettings.Development.json
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\appsettings.json
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.exe
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.deps.json
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.runtimeconfig.json
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\ApiLaboratorio.pdb
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\AutoMapper.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Azure.Core.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Azure.Identity.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Google.Protobuf.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Humanizer.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\MySql.Data.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Ubiety.Dns.Core.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Zstandard.Net.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Scrutor.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Renci.SshNet.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\SshNet.Security.Cryptography.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.CodeDom.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.Memory.Data.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.csproj.AssemblyReference.cache
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.AssemblyInfoInputs.cache
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.AssemblyInfo.cs
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.csproj.CoreCompileInputs.cache
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.MvcApplicationPartsAssemblyInfo.cs
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.MvcApplicationPartsAssemblyInfo.cache
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.ApiLaboratorio.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiLaboratorio.props
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiLaboratorio.props
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiLaboratorio.props
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\staticwebassets.pack.json
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\staticwebassets.build.json
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\staticwebassets.development.json
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\scopedcss\bundle\ApiLaboratorio.styles.css
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.csproj.CopyComplete
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\refint\ApiLaboratorio.dll
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.pdb
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ApiLaboratorio.genruntimeconfig.cache
+E:\DevTeam\Nueva carpeta\ApiLaboratorio\obj\Debug\net7.0\ref\ApiLaboratorio.dll

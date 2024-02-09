@@ -1,10 +1,17 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ApiLaboratorio.Data;
+using ApiLaboratorio.Models;
+using ApiLaboratorio.Models.Dto;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
+using System;
+using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
+using System.Linq;
 using System.Security.Claims;
-using ApiLaboratorio.Data;
-using ApiLaboratorio.Models;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ApiLaboratorio.Repositorio
 {
@@ -12,15 +19,18 @@ namespace ApiLaboratorio.Repositorio
     {
         private readonly ApplicationDbContext _db;
         private readonly IConfiguration _configuration;
+
         public UserRepositorio(ApplicationDbContext db, IConfiguration configuration)
         {
             _db = db;
             _configuration = configuration;
         }
+
         public async Task<string> Login(string userName, string password)
         {
-            var user = await _db.Users.FirstOrDefaultAsync(
+            var user = await _db.Usuarios.FirstOrDefaultAsync(
                 x => x.UserName.ToLower().Equals(userName.ToLower()));
+
             if (user == null)
             {
                 return "nouser";
@@ -35,62 +45,79 @@ namespace ApiLaboratorio.Repositorio
             }
         }
 
-        public async Task<string> Register(User user, string password)
+        public async Task<string> Register(UserDto userDto)
         {
-            //throw new NotImplementedException();
             try
             {
-                if (await UserExiste(user.UserName))
+                if (await UserExists(userDto.UserName))
                 {
                     return "existe";
                 }
 
+                var user = new User
+                {
+                    UserName = userDto.UserName,
+                    FirstName = userDto.FirstName,
+                    LastName = userDto.LastName,
+                    Email = userDto.Email
+                };
 
-                CrearPasswordHash(password, out byte[] passwordHash, out byte[] passwordSalt);
+                CrearPasswordHash(userDto.Password, out byte[] passwordHash, out byte[] passwordSalt);
                 user.PasswordHash = passwordHash;
                 user.PasswordSalt = passwordSalt;
-                await _db.Users.AddAsync(user);
+
+                await _db.Usuarios.AddAsync(user);
                 await _db.SaveChangesAsync();
+
                 return CrearToken(user);
             }
             catch (Exception)
             {
-
                 return "error";
             }
         }
 
-        public async Task<bool> UserExiste(string username)
+        public async Task<bool> UserExists(string username)
         {
-            if (await _db.Users.AnyAsync(x => x.UserName.ToLower().Equals(username.ToLower())))
-            {
-                return true;
-            }
-            return false;
+            return await _db.Usuarios.AnyAsync(x => x.UserName.ToLower().Equals(username.ToLower()));
         }
+
+        public async Task<UserDto> GetUserByName(string username)
+        {
+            var user = await _db.Usuarios.FirstOrDefaultAsync(x => x.UserName.ToLower().Equals(username.ToLower()));
+            if (user == null)
+            {
+                return null;
+            }
+
+            return new UserDto
+            {
+                Id = user.Id,
+                UserName = user.UserName,
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Email = user.Email
+            };
+        }
+
         private void CrearPasswordHash(string password, out byte[] passwordHash, out byte[] passwordSalt)
         {
-            using (var hmac = new System.Security.Cryptography.HMACSHA512())
+            using (var hmac = new HMACSHA512())
             {
                 passwordSalt = hmac.Key;
-                passwordHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
+                passwordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password));
             }
         }
+
         public bool VerificarPasswordHash(string password, byte[] passwordHash, byte[] passwordSalt)
         {
-            using (var hmac = new System.Security.Cryptography.HMACSHA512(passwordSalt))
+            using (var hmac = new HMACSHA512(passwordSalt))
             {
-                var computedHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
-                for (int i = 0; i < computedHash.Length; i++)
-                {
-                    if (computedHash[i] != passwordHash[i])
-                    {
-                        return false;
-                    }
-                }
-                return true;
+                var computedHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password));
+                return computedHash.SequenceEqual(passwordHash);
             }
         }
+
         private string CrearToken(User user)
         {
             var claims = new List<Claim>
@@ -99,15 +126,13 @@ namespace ApiLaboratorio.Repositorio
                 new Claim(ClaimTypes.Name, user.UserName)
             };
 
-            var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.
-                GetBytes(_configuration.GetSection("AppSettings:Token").Value));
-
-            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256Signature);
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration.GetSection("AppSettings:Token").Value));
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
 
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(claims),
-                Expires = System.DateTime.Now.AddDays(1),
+                Expires = DateTime.Now.AddDays(1),
                 SigningCredentials = creds
             };
 
@@ -116,5 +141,44 @@ namespace ApiLaboratorio.Repositorio
 
             return tokenHandler.WriteToken(token);
         }
+        public async Task<bool> AsignarRol(int userId, int rolId)
+        {
+            var user = await _db.Usuarios.Include(u => u.UserRoles).FirstOrDefaultAsync(u => u.Id == userId);
+            var rol = await _db.Roles.FirstOrDefaultAsync(r => r.RolId == rolId);
+
+            if (user == null || rol == null)
+            {
+                return false; // Usuario o rol no encontrados
+            }
+
+            // Verificar si el usuario ya tiene asignado este rol
+            if (user.UserRoles != null && user.UserRoles.Any(ur => ur.RolId == rolId))
+            {
+                return false; // El usuario ya tiene asignado este rol
+            }
+
+            // Crear una nueva entrada de UserRole para asignar el rol al usuario
+            var userRole = new RolUsuario
+            {
+                UsuarioId = userId,
+                RolId = rolId
+            };
+
+            // Si el usuario no tiene roles, inicializar la lista antes de agregar el nuevo rol
+            if (user.UserRoles == null)
+            {
+                user.UserRoles = new List<RolUsuario>();
+            }
+
+            // Agregar el UserRole al conjunto de roles del usuario
+            user.UserRoles.Add(userRole);
+
+            _db.Usuarios.Update(user);
+            await _db.SaveChangesAsync();
+
+            return true;
+        }
+
+
     }
 }

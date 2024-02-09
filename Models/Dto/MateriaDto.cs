@@ -2,9 +2,7 @@
 {
     public class MateriaDto
     {
-        public int MateriaId { get; set; }
+        public int Materia_id { get; set; }
         public string Nombre { get; set; }
-        public string Descripcion { get; set; }
-        public int CarreraId { get; set; }  // Para representar la relación con Carrera
     }
 }

@@ -23,7 +23,13 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 // Configuración de servicios de repositorio
 builder.Services.AddScoped<IUserRepositorio, UserRepositorio>();
-
+builder.Services.AddScoped<IRolRepositorio, RolRepositorio>();
+//builder.services.AddScoped<IAsignarMateriaRepositorio, AsignarMateriaRepositorio>();
+builder.Services.AddScoped<ILaboratorioRepositorio, LaboratorioRepositorio>();
+builder.Services.AddScoped<IHorarioRepositorio, HorarioRepositorio>();
+builder.Services.AddScoped<IFacultadRepositorio, FacultadRepositorio>();
+builder.Services.AddScoped<IMateriaRepositorio, MateriaRepositorio>();
+builder.Services.AddScoped<ICarreraRepositorio, CarreraRepositorio>();
 // Configuración de autenticación JWT
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>

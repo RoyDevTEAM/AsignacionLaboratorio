@@ -1,23 +1,19 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace ApiLaboratorio.Models
 {
     public class Materia
     {
+
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int MateriaId { get; set; }
+        public int Materia_id { get; set; }
 
         [Required]
-        [MaxLength(100)]
+        [MaxLength(50)]
         public string Nombre { get; set; }
 
-        [MaxLength(255)]
-        public string Descripcion { get; set; }
-        public int CarreraId { get; set; }
-
-        [ForeignKey("CarreraId")]
-        public virtual Carrera Carrera { get; set; }
+        // Relación muchos a muchos con Carrera a través de Asignar_Materia
+        public ICollection<AsignarMateria> AsignarMaterias { get; set; }
     }
 }

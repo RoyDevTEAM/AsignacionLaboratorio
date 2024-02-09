@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace ApiLaboratorio.Models
 {
@@ -9,6 +8,7 @@ namespace ApiLaboratorio.Models
         public int Id { get; set; }
 
         [Required]
+        [MaxLength(255)]
         public string UserName { get; set; }
 
         [Required]
@@ -16,11 +16,16 @@ namespace ApiLaboratorio.Models
 
         [Required]
         public byte[] PasswordSalt { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Email { get; set; }
 
-        // Relación con roles asi podremos ver el rol que tiene este usuario
-        public List<Role> Roles { get; set; }
+        [MaxLength(255)]
+        public string FirstName { get; set; }
+
+        [MaxLength(255)]
+        public string LastName { get; set; }
+
+        [MaxLength(255)]
+        public string Email { get; set; }
+        // Relación muchos a muchos con Role a través de UserRole
+        public ICollection<RolUsuario> UserRoles { get; set; }
     }
 }
